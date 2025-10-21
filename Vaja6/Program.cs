@@ -2,8 +2,11 @@
 
 namespace vaja6 {
 
-    // Komentar
+  
     public enum Poklic { Bojevnik, Carovnik, Menih, Tat, Lovec, Duhoven };
+
+  public int x = 666;
+
 	// Se en komentar
     class Igralec {
         public int id;
