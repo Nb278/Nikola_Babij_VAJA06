@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jaka.koren\\Documents\\Demonstracija\\Vaja6\\OPR---VAJA06\\Vaja6\\Vaja6.csproj",
+      "projectUniqueName": "C:\\Users\\jaka.koren\\Source\\Repos\\OPR---VAJA06\\Vaja6\\Vaja6.csproj",
       "projectName": "Vaja6",
-      "projectPath": "C:\\Users\\jaka.koren\\Documents\\Demonstracija\\Vaja6\\OPR---VAJA06\\Vaja6\\Vaja6.csproj",
+      "projectPath": "C:\\Users\\jaka.koren\\Source\\Repos\\OPR---VAJA06\\Vaja6\\Vaja6.csproj",
       "packagesPath": "C:\\Users\\jaka.koren\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaka.koren\\Documents\\Demonstracija\\Vaja6\\OPR---VAJA06\\Vaja6\\obj\\",
+      "outputPath": "C:\\Users\\jaka.koren\\Source\\Repos\\OPR---VAJA06\\Vaja6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jaka.koren\\AppData\\Roaming\\NuGet\\NuGet.Config",

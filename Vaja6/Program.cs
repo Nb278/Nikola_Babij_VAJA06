@@ -2,6 +2,7 @@
 
 namespace vaja6 {
 
+    // Komentar
     public enum Poklic { Bojevnik, Carovnik, Menih, Tat, Lovec, Duhoven };
 
     class Igralec {
