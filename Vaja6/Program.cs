@@ -5,6 +5,8 @@ namespace vaja6 {
   
     public enum Poklic { Bojevnik, Carovnik, Menih, Tat, Lovec, Duhoven };
 
+  public int x = 666;
+
     class Igralec {
         public int id;
         public string u_ime;
