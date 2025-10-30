@@ -7,21 +7,21 @@ namespace vaja6 {
 
   public int x = 666;
 
-	// Se en komentar
+	// Razred za igralce 
     class Igralec {
-        public int id;
-        public string u_ime;
-        public string u_geslo;
-        public static int stIg = 1;
+        public int id; // id od igralca 
+        public string u_ime; // ime igralca
+        public string u_geslo; // geslo
+        public static int stIg = 1; 
 
-        public Igralec() {
+        public Igralec() { // privzetni konstrukor ki dodeli id novim igralcom
             u_ime = "";
             u_geslo = "";
             id = stIg;
             stIg++;
         }
 
-        public int Id {
+        public int Id { // samo za branje ki. Lastnost ki vrne ID igralca
             get
             {
                 return id;
@@ -39,7 +39,7 @@ namespace vaja6 {
             }
         }
 
-        public string U_geslo
+        public string U_geslo // lastnost, ki vrne ali nastavi geslo 
         {
             get
             {
@@ -51,7 +51,7 @@ namespace vaja6 {
             }
         }
 
-        public static int StIg
+        public static int StIg // vrne skupno st igralcev
         {
             get { return stIg; }
         }
